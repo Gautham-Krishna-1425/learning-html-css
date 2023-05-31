@@ -1,0 +1,46 @@
+.all{
+    background-color: rgba(18,30,47,255);
+}
+
+
+h1{
+    text-align: center;
+    font-size: 85px;
+}
+
+
+#logo{
+    width: 90vw;
+    padding: 20px;
+    margin: 50px;
+    border: 5px  solid rgb(0, 255, 140) ;
+    border-radius: 25px;
+}
+
+
+#tables{
+    display: flex;
+    justify-content: space-around;
+    border: 6px rgb(0, 255, 140) double;
+}
+
+
+body{
+    color: beige;
+}
+
+#table1{
+    border: 5px solid rgb(124,132,140);
+}
+
+
+.box th, td,.box{
+    border: 5px solid rgb(124,132,140);
+}
+
+footer{display: flex;
+    justify-content: space-between;
+}
+#link{
+    align-self: center;
+}
